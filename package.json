@@ -1,5 +1,5 @@
 {
-  "name": "isDev",
+  "name": "isdev",
   "version": "1.0.0",
   "description": "Returns a boolean indicating if you are in a development environment or not",
   "main": "index.js",
