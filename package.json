@@ -1,0 +1,32 @@
+{
+  "name": "isDev",
+  "version": "0.0.0",
+  "description": "Returns a boolean indicating if you are in a development environment or not",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wblankenship/isDev.git"
+  },
+  "keywords": [
+    "development",
+    "environment",
+    "dev",
+    "isdev"
+  ],
+  "author": "william.jblakenship <william.jblankenship@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wblankenship/isDev/issues"
+  },
+  "homepage": "https://github.com/wblankenship/isDev",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1"
+  }
+}
