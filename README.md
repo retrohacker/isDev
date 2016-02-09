@@ -1,5 +1,9 @@
-isDev
+isdev
 ===
+
+# Installation
+
+`npm install --save isdev`
 
 A simple little utility for checking if you are in a development environment.
 
@@ -17,7 +21,7 @@ The speicification can be found in the mocha tests, but gist is this:
 To use:
 
 ```
-var isDev = require('isDev')
+var isDev = require('isdev')
 
 if(isDev) {
   console.log("In Development!")
