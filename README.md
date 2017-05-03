@@ -7,7 +7,7 @@ isdev
 
 A simple little utility for checking if you are in a development environment.
 
-The speicification can be found in the mocha tests, but gist is this:
+The specification can be found in the mocha tests, but the gist is this:
 
 *NODE_ENV value:*
 * Development environment:
